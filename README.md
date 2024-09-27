@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TaskinOkmen
-- 👀 I’m interested in embedded systems
+- 👀 interested in embedded systems and computer vision
 
 <!---
 TaskinOkmen/TaskinOkmen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
